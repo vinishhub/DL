@@ -1,3 +1,5 @@
+#pip install fsspec
+#pip install scikit-learn==1.5.2
 import pandas as pd
 from keras.models import Model
 from keras.layers import Dense, Input
